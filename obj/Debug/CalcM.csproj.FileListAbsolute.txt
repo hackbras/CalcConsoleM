@@ -1,0 +1,6 @@
+c:\users\mmdsousa\documents\visual studio 2015\Projects\Ferramentas\CalcM\bin\Debug\CalcM.exe.config
+c:\users\mmdsousa\documents\visual studio 2015\Projects\Ferramentas\CalcM\bin\Debug\CalcM.exe
+c:\users\mmdsousa\documents\visual studio 2015\Projects\Ferramentas\CalcM\bin\Debug\CalcM.pdb
+c:\users\mmdsousa\documents\visual studio 2015\Projects\Ferramentas\CalcM\obj\Debug\CalcM.csprojResolveAssemblyReference.cache
+c:\users\mmdsousa\documents\visual studio 2015\Projects\Ferramentas\CalcM\obj\Debug\CalcM.exe
+c:\users\mmdsousa\documents\visual studio 2015\Projects\Ferramentas\CalcM\obj\Debug\CalcM.pdb
